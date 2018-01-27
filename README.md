@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Food Pandya
+A web page template for food servicing websites.
 
-You can use the [editor on GitHub](https://github.com/kumar-akash/Food-Pandya/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## To view the project <a href="https://kumar-akash.github.io/Food-Pandya/">Click here</a> 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Starting of the page has a grate background image and a navigation bar 
 
-### Markdown
+![screenshot- 8](https://user-images.githubusercontent.com/20499553/35471527-d6586d94-0382-11e8-9c34-4d1abf8964f5.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Features of the food pandya in the form of icons used from ionicons.com
 
-```markdown
-Syntax highlighted code block
+![screenshot- 1](https://user-images.githubusercontent.com/20499553/35471537-e8201f22-0382-11e8-931b-76c477db08ed.png)
 
-# Header 1
-## Header 2
-### Header 3
+#### Simple guidelinses for using the website and other resources
 
-- Bulleted
-- List
+![screenshot- 3](https://user-images.githubusercontent.com/20499553/35471538-f00e8fc0-0382-11e8-9db3-0c8c9703f128.png)
 
-1. Numbered
-2. List
+#### Photo Gallery of some of the food items.
 
-**Bold** and _Italic_ and `Code` text
+![screenshot- 2](https://user-images.githubusercontent.com/20499553/35471603-706acf3e-0384-11e8-9656-fa9a97a41d59.png)
 
-[Link](url) and ![Image](src)
-```
+#### Areas under which these services are provided ar shown in the form of images with some text information and twitter of food panda for that area
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![screenshot- 4](https://user-images.githubusercontent.com/20499553/35471543-f82cd84c-0382-11e8-868d-d0a697cd137a.png)
 
-### Jekyll Themes
+#### Customer reviews are shown wth a background image.
+![screenshot- 5](https://user-images.githubusercontent.com/20499553/35471544-ff61389c-0382-11e8-920b-3edff01a0f36.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kumar-akash/Food-Pandya/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Subscription plan is provided in the form of cards with a decent shadow effect and a button for signup.
+![screenshot- 6](https://user-images.githubusercontent.com/20499553/35471550-0b3bd5a0-0383-11e8-894c-e36f6242b9fc.png)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Signup form with validation.
+![screenshot- 7](https://user-images.githubusercontent.com/20499553/35471551-0f41981a-0383-11e8-83c3-f2c4de0bce24.png)
